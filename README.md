@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Khushal027
-- 👀 I’m interested in playing with the data
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me 8286682805
+- 👋 Hi, I’m Khushal Niveriya.
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning.
+- 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence. 
+- 📫 You can reach me on my email id kniveriya31@gmail.com
+
 
 <!---
 Khushal027/Khushal027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
