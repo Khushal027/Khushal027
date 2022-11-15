@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khushal027
-- 👀 I’m interested in playiing with the data
+- 👀 I’m interested in playing with the data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 8286682805
